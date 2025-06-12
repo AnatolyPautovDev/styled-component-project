@@ -31,11 +31,11 @@ const Box = styled.div`
 `
 
 const Card = styled.div`
-  width: 300px;
-  height: 350px;
-  border-radius: 15px;
-  background-color: #FFF;
-  box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.10);
+    width: 300px;
+    height: 350px;
+    border-radius: 15px;
+    background-color: #FFF;
+    box-shadow: 0 4px 20px 5px rgba(0, 0, 0, 0.10);
     display: flex;
     flex-direction: column;
     row-gap: 20px;
