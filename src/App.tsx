@@ -6,7 +6,7 @@ function App() {
   return (
     <Box>
       <Card>
-        <Image src='./src/assets/img/desert.png' alt={'desert'}/>
+        <Image src='./desert.png' alt={'desert'}/>
           <Wrapper direction={'column'}>
               <H2>Headline</H2>
               <Text>Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie ornare in venen.</Text>
